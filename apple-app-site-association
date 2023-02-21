@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["TB4U47D88W.com.miisheng.erlian"],
+            "components": [{
+                "/": "/erlian/*",
+                "comment": "erlian"
+            }]
+        }]
+    }
+}
